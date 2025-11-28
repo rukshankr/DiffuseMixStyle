@@ -20,5 +20,7 @@ DiffusionMixStyle was developed with Ultralytics YOLO11 based on PyTorch. Check 
 
 Our own evaluation code is to be added.
 
+Model checkpoint is to be added.
+
 ## Contact
 Rukshan Karannagoda: [r.karannagoda@uq.edu.au](mailto:r.karannagoda@uq.edu.au) 
