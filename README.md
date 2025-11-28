@@ -5,9 +5,16 @@ This repository contains dataset samples and model checkpoints for DiffusionMixS
 
 DiffusionMixStyle was developed with Ultralytics YOLO11 based on PyTorch. Check the installation guide [here](https://docs.ultralytics.com/models/yolo11/).
 
+## Environment
+* NVIDIA A100 80GB GPU
+* Torch                    2.3.1+cu121 
+* Torchvision              0.18.1+cu121
+
 ## Files
 * datasets/
+  * The sorghum diversity dataset and phenotype information.
 * model_chkpts/
+  * Trained DiffusionMixStyle model checkpoint
 
 ## Evaluation Code
 
