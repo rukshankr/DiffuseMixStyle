@@ -1,4 +1,4 @@
-# DiffusionMixStyle
+# DiffusionMixStyle: Robust Sorghum Panicle Counting across  Diverse Germplasm and Imaging  Conditions
 This repository contains dataset samples and model checkpoints for DiffusionMixStyle, a deep learning model designed for panicle detection across a wide variety of sorghum phenotypes. A subset of the created sorghum diversity datasets from the experiments in the publication is made available for evaluation.
 
 ## Overview
