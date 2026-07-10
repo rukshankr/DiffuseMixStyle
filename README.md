@@ -13,6 +13,7 @@ DiffusionMixStyle was developed with Ultralytics YOLO11 based on PyTorch. Check 
 ## Files
 * datasets/
   * The sorghum diversity dataset and phenotype information.
+  * The image files as well as the other metadata are available upon request at https://doi.org/10.48610/45beb77.
 * model_chkpts/
   * Trained DiffusionMixStyle model checkpoint
 
