@@ -16,6 +16,7 @@ The dataset is accessible via UQ eSpace:
 Karannagoda, Rukshan, Baktashmotlagh, Mahsa, Chapman, Scott, Wang, Zijian, Guo, Kaiyu, Luo, Yadan, James, Chrisbin,  and Zheng, Bangyou(2026). Sorghum diversity head counting dataset. The University of Queensland. Data Collection.https://doi.org/10.48610/45beb77
 * datasets/
   * The sorghum diversity dataset and phenotype information.
+  * The image files as well as the other metadata are available upon request at https://doi.org/10.48610/45beb77.
 * model_chkpts/
   * Trained DiffusionMixStyle model checkpoint
 
