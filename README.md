@@ -11,6 +11,9 @@ DiffusionMixStyle was developed with Ultralytics YOLO11 based on PyTorch. Check 
 * Torchvision              0.18.1+cu121
 
 ## Files
+The dataset is accessible via UQ eSpace:
+
+Karannagoda, Rukshan, Baktashmotlagh, Mahsa, Chapman, Scott, Wang, Zijian, Guo, Kaiyu, Luo, Yadan, James, Chrisbin,  and Zheng, Bangyou(2026). Sorghum diversity head counting dataset. The University of Queensland. Data Collection.https://doi.org/10.48610/45beb77
 * datasets/
   * The sorghum diversity dataset and phenotype information.
 * model_chkpts/
